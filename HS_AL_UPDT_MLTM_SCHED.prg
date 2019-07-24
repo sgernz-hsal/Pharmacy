@@ -11,6 +11,7 @@ prompt
  
 with OUTDEV, DRUGID, SCHED
  
+;001 added comment to see how things work
 ;declare record structure
 RECORD results (
 	1 cnt = i4
